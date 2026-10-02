@@ -4,7 +4,7 @@
 
 *Sistema de cubicación de trozos de madera según norma JAS*
 
-[![Demo](https://img.shields.io/badge/Ver_sitio-jascalculatorapp.netlify.app-lightblue)](https://jascalculatorapp.netlify.app) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ruizRojasFel/calculator-jas_md/blob/main/LICENSE)
+[![Demo](https://img.shields.io/badge/Ver_sitio-jascalculatorapp.netlify.app-lightblue)](https://jascalculatorapp.netlify.app) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ruizRojasFel/jas_calculator_md?tab=MIT-1-ov-file)
 
 > ⚠️ **El código fuente de este proyecto es privado.** Este repositorio existe para documentar y presentar el proyecto de manera pública. Para mayor información [pinchar aquí](https://historical-scraper-167.notion.site/Calculator-JAS-APP-3c631ae318578044b70fd0c8613946fc).
 </div>
